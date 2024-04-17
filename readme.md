@@ -93,6 +93,6 @@ FAQ
 
 License
 -------
-NiGui is FLOSS (free and open-source software).<br>
+NiGui is FOSS (free and open-source software).<br>
 All files in this repository are licensed under the [MIT License](https://opensource.org/licenses/MIT). As a result you may use any compatible license (essentially any license) for your own programs developed with NiGui. You are explicitly permitted to develop commercial applications using NiGui.<br>
 Copyright 2017-2020 Simon Krauter and contributors
